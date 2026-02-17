@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +14,8 @@
   "type": "commonjs",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
