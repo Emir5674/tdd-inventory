@@ -1,4 +1,4 @@
-const Ubication = require('../src/Ubication');
+const Ubication = require('../src/ubication');
 
 describe('Ubication Domain Logic', () => {
     test('should create a valid ubication', () => {

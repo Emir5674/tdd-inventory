@@ -1,4 +1,4 @@
-const Ubication = require('../src/Ubication');
+const Ubication = require('../src/ubication');
 const UbicationService = require('../src/services/ubication.service');
 
 describe('Testing Ubication Service', () => {

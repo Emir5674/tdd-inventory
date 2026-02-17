@@ -1,4 +1,4 @@
-const Ubication = require('../Ubication');
+const Ubication = require('../ubication');
 
 class UbicationService {
     constructor() {
